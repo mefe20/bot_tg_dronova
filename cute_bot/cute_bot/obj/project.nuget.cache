@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ZjAk5f/utvSmXWGkUACqzeboLltx4TH8mmgYWblklen1fv5AAas87tHD+/C9EBqWmcWhjTnda2dj6isy1HT+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Azerty\\Desktop\\tg_bot\\cute_bot\\cute_bot\\cute_bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Azerty\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Azerty\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
